@@ -1,0 +1,8 @@
+{
+  "name": "PIXLat Image Processor - Windows GUI & Filters",
+  "description": "Windows GUI desktop application and interactive filter studio for CS213 C++ Image Processing project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
